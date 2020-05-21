@@ -1,0 +1,2 @@
+# lsapp
+School Management System
